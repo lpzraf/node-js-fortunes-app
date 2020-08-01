@@ -1,1 +1,1 @@
-## Fortunes App - Practicing Node JS
+## Fortunes App - Node JS
